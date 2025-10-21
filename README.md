@@ -127,4 +127,4 @@ For questions, suggestions, or support, please open an issue or contact the main
 **HabitArena** – Build habits, track progress, and compete for a better you!
 
 ---
-Developed by [Mahyudeen Shahid](https://github.com/MahyudeenShahid) with ❤
+Developed by [Mahyudeen Shahid](https://mahyudeen.me/) with ❤
